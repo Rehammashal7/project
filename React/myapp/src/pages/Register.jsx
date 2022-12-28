@@ -20,7 +20,6 @@ const Wrapper = styled.div`
   width: 40%;
   padding: 20px;
   background-color: white;
- 
 `;
 
 const Title = styled.h1`
