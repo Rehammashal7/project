@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export const sliderItems = [
     {
       id: 1,
@@ -17,7 +16,6 @@ export const sliderItems = [
   ];
 
   
-=======
 export const popularProducts = [
     {
       id:1,
@@ -64,4 +62,3 @@ export const popularProducts = [
       img:"https://cdn.shopify.com/s/files/1/0003/0736/3851/products/Untitleddesign_2.png?v=1656011331&width=550",
     }
   ]
->>>>>>> main
